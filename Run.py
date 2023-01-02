@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("Premium64").Old_Crack()
+    __import__("Pro").main()
 except Exception as e:
     exit(str(e))
